@@ -1,0 +1,1 @@
+<script id="data" type="application/json">{"msg": "Order placed", "status": 200}</script>
